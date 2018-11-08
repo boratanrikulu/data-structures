@@ -1,4 +1,4 @@
-## Pamukkale University - Data Structures Lab
+## Pamukkale University - Data Structures
 
 <p align="right"> 
 	last update : 08/11/18
