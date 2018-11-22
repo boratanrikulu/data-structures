@@ -1,7 +1,7 @@
 ## Pamukkale University - Data Structures
 
 <p align="right"> 
-	last update : 08/11/18
+	last update : 22/11/18
 </p>
 
 The purpose of this repo is to keep all lesson materials tidy and up to date.  
@@ -18,6 +18,7 @@ They are originally published on [**`github.com/sevketcakir/ds2018`**](https://g
 | 4 | BinarySearchTrees and Expression Trees | [**`/ds2018/sunum/vy4.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy4.pdf) | [**`BinarySearchTree`**](/_data/lab/binary_search_tree/)<br>**`[75/100]`** |
 | 5 | AVL Trees | [**`/ds2018/sunum/vy5.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy5.pdf) | [**`Treversal`**](/_data/lab/traversal/)<br>**`[100/100]`** |
 | 6 | Binary Heap and Huffman Trees | [**`/ds2018/sunum/vy6.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy6.pdf) | [**`BinaryHeap`**](/_data/lab/binary_heap/)<br>**`[100/100]`** |
-| 7 | 2-3 Trees and B Trees | [**`/ds2017/sunum/vy7.pdf`**](https://ders.im/dokuman/veri-yapilari-heap-2-3-ve-b-agaclari-7.-hafta)<br>**`(ders.im) `** | [**`AVLTrees`**](/_data/lab/avl_trees/)<br>**`[100/100]`** |
+| 7 | 2-3 Trees and B Trees | [**`/ds2018/sunum/vy7.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy7.pdf) | [**`AVLTrees`**](/_data/lab/avl_trees/)<br>**`[100/100]`** |
+| 8 | Hash | [**`/ds2017/sunum/vy8.pdf`**](https://ders.im/dokuman/veri-yapilari-ozetleme-fonksiyonlari-hashing-8.-hafta)<br>**`(ders.im) `** | [**`SeperatedChainHash`**](/_data/lab/seperated_chain_hash/)<br>**`[100/100]`** |
 
 You can send pull request to improve this repo. If you need to contact me : [**`@boratanrikulu`**](https://t.me/boratanrikulu)
