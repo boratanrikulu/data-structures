@@ -19,8 +19,10 @@ They are originally published on [**`github.com/sevketcakir/ds2018`**](https://g
 | 5 | AVL Trees | [**`/ds2018/sunum/vy5.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy5.pdf) | [**`Treversal`**](/_data/lab/traversal/)<br>**`[100/100]`** |
 | 6 | Binary Heap and Huffman Trees | [**`/ds2018/sunum/vy6.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy6.pdf) | [**`BinaryHeap`**](/_data/lab/binary_heap/)<br>**`[100/100]`** |
 | 7 | 2-3 Trees and B Trees | [**`/ds2018/sunum/vy7.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy7.pdf) | [**`AVLTrees`**](/_data/lab/avl_trees/)<br>**`[100/100]`** |
-| 8 | Hash | [**`/ds2017/sunum/vy8.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy8.pdf) | [**`SeperatedChainHash`**](/_data/lab/seperated_chain_hash/)<br>**`[100/100]`** |
-| - | - | [**`-`**] | [**`QuadraticProbeHashh`**](/_data/lab/quadratic_probe_hash/)<br>**`[100/100]`** |
+| 8 | Hash | [**`/ds2018/sunum/vy8.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy8.pdf) | [**`SeperatedChainHash`**](/_data/lab/seperated_chain_hash/)<br>**`[100/100]`** |
+| **--** | **--** | **`[--]`** | [**`QuadraticProbeHashh`**](/_data/lab/quadratic_probe_hash/)<br>**`[100/100]`** |
 | 9 | Graph | [**`/ds2018/sunum/vy9.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy9.pdf) | [**`AbstractGraph`**](/_data/lab/abstract_graph)<br>**`[100/100]`** |
+| 10 | Graph Algorithms | [**`/ds2018/sunum/vy10.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy10.pdf) | **`[AbstractGraph2]`**<br>**`[0/100]`** |
+| 11 | Sorting Algorithms | **`[--]`** | **`[AbstractGraph3]`**<br>**`[0/100]`** |
 
 You can send pull request to improve this repo. If you need to contact me : [**`@boratanrikulu`**](https://t.me/boratanrikulu)
