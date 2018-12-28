@@ -18,7 +18,7 @@ public class Homework {
 	public Map<String, String> coloredGraph;
 
 	/**
-	 * Constructor creates a SimpleGraph by parsing "girdi" variable which comes a String.
+	 * Constructor creates a SimpleGraph by parsing "girdi" variable which comes as a String.
 	 */
 	public Homework(String girdi) {
 		if (girdi == null)
