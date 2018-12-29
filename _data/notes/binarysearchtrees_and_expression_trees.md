@@ -21,7 +21,7 @@ Yani 7 elemanlı dengeli bir ağaç için en kötü durum 3 adımda gerçekleşi
 Tamamen bir tarafa yatık bir ağaç için en kötü durum n'dir.
 
 ```java
-public <T> Node find(Node<T> root, T value) {
+public <T> Node<T> find(Node<T> root, T value) {
 	if(root == null) {
 		return;
 	} else {
@@ -39,7 +39,7 @@ public <T> Node find(Node<T> root, T value) {
 #### Binary Search Tree'de ekleme işlemi
 
 ```java
-public Node<T> add(Node<T> root, T value) {
+public <T> Node<T> add(Node<T> root, T value) {
 	if(root.value == value) {
 		return;
 	} else if(value.compareTo(node.value)) {
@@ -70,7 +70,7 @@ Successor ya da Predecessor'ı ile yer değiştirilir.
 #### Successor bulma algoritması
 
 ```java
-public Node<T> successor(T value) {
+public <T> Node<T> successor(T value) {
 	Node<T> current = find(getRoot(), value);
 
 	/* one time goes to right */
@@ -94,7 +94,7 @@ public Node<T> successor(T value) {
 #### Parent bulma algoritması
 
 ```java
-public Node<T> findParent(Node<T> node) {
+public <T> Node<T> findParent(Node<T> node) {
 	Node<T> parent = getRoot();
 
 	while(parent != null && parent.left != null && parent.right != null) {
