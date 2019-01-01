@@ -151,5 +151,3 @@ HOP bilgisinde, o anki hashing değerine devam eden bilgilerden hangilerinin dah
 <p align="center">
 	<img src="https://i.hizliresim.com/YQk5Y2.png" width="500px">
 </p>
-
-
