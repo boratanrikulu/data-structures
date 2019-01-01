@@ -1,7 +1,7 @@
 ## Pamukkale University - Data Structures
 
 <p align="right"> 
-	last update : 28/12/18
+	last update : 02/01/19
 </p>
 
 The purpose of this repo is to keep all lesson materials tidy and up to date.  
