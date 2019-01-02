@@ -22,7 +22,7 @@ They are originally published on [**`github.com/sevketcakir/ds2018`**](https://g
 | 8 | [**`Hash`**](/_data/notes/hash.md) | [**`vy8.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy8.pdf) | [**`SeperatedChainHash`**](/_data/lab/seperated_chain_hash/)<br>**`[100/100]`** |
 | **--** | **--** | **`[--]`** | [**`QuadraticProbeHashh`**](/_data/lab/quadratic_probe_hash/)<br>**`[100/100]`** | [**`HuffmanTree`**](_data/homework/huffman_tree/)<br>**`[100/100]`** |
 | 9 | [**`Graph`**](/_data/notes/graph.md) | [**`vy9.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy9.pdf) | [**`AbstractGraph`**](/_data/lab/abstract_graph/)<br>**`[100/100]`** || 10 | Graph Algorithms | [**`vy10.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy10.pdf) | **`[AbstractGraph2]`**<br>**`[0/100]`** |
-| 10 | Graph Algorithms | [**`vy10.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy10.pdf) | **`[AbstractGraph2]`**<br>**`[0/100]`** |
+| 10 | [**`Graph Algorithms`**](/_data/notes/graph_algorithms.md) | [**`vy10.pdf`**](https://github.com/sevketcakir/ds2018/blob/master/sunum/vy10.pdf) | **`[AbstractGraph2]`**<br>**`[0/100]`** |
 | 11 | Sorting Algorithms | **`[--]`** | **`[AbstractGraph3]`**<br>**`[0/100]`** | [**`WelshPowell`**](/_data/homework/welsh_powell/)<br>**`[100/100]`** |
 
 You can send pull request to improve this repo. If you need to contact me : [**`@boratanrikulu`**](https://t.me/boratanrikulu)
