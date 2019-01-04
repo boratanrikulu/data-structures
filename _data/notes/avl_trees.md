@@ -1,7 +1,7 @@
 ## AVL Trees
 
 <p align="center"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AVL-tree-wBalance_K.svg/1200px-AVL-tree-wBalance_K.svg.png" width="500px">
+	<img src="_img/week_5_0.jpg" width="500px">
 </p>
 
 Dengeli bir ağaçtır.

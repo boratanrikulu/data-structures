@@ -1,7 +1,7 @@
 ## Stacks (yığıtlar)
 
 <p align="center"> 
-	<img src="https://www.tutorialspoint.com/data_structures_algorithms/images/stack_representation.jpg" width="500px">
+	<img src="_img/week_2_0.jpg" width="500px">
 </p>
 
 **Last in, First out** mantığı ile çalışır. Üst üste dizilen tabaklar gibi düşünülebilir.
@@ -18,7 +18,7 @@ Stack farklı veri yapıları kullanılarak gerçekleştirilebilir (implementati
 ## Queues (kuyruklar)
 
 <p align="center"> 
-	<img src="https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2017/12/Queue.png?resize=360%2C185" width="500px">
+	<img src="_img/week_2_1.jpg" width="500px">
 </p>
 
 **First in, First out** mantığı ile çalışır.

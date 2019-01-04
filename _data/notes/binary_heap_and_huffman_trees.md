@@ -1,7 +1,7 @@
 ## Binary Heap
 
 <p align="center"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Min-heap.png" width="500px">
+	<img src="_img/week_6_0.jpg" width="500px">
 </p>
 
 Complete Binary  Tree yapısındadır.
@@ -89,7 +89,7 @@ public void heapifyDown() {
 ## Huffman Trees
 
 <p align="center"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/1280px-Huffman_tree_2.svg.png" width="500px">
+	<img src="_img/week_6_1.jpg" width="500px">
 </p>
 
 Verileri sıkıştırmak amacıyla kullanılır. Kayıpsız bir veri sıkıştırma yöntemidir.

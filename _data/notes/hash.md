@@ -127,11 +127,11 @@ gibi..
 Yarısı boş kalacak şekilde iki tane hashing tablosu bulunur. Veriler bu iki tablodan birinde bulunur.
 
 <p align="center"> 
-	<img src="https://i.hizliresim.com/BaP9mD.png" width="500px">
+	<img src="_img/week_8_0.jpg" width="500px">
 </p>
 
 <p align="center">
-	<img src="https://i.hizliresim.com/qdM29V.png" width="600px">
+	<img src="_img/week_8_1.jpg" width="600px">
 </p>
 
 <p align="center"><a href="https://www.youtube.com/watch?v=tiYcWJPtcs4">https://www.youtube.com/watch?v=tiYcWJPtcs4</a></p>
@@ -149,5 +149,5 @@ HOP bilgisinde, o anki hashing değerine devam eden bilgilerden hangilerinin dah
 Örneğin MAX_DIST=4 için 5. konumdaki hashing için HOP değeri 1011 ise 5,7 ve 8. konumdaki elemanların hashing değerinin 5 olduğunu anlarız.
 
 <p align="center">
-	<img src="https://i.hizliresim.com/YQk5Y2.png" width="500px">
+	<img src="_img/week_8_2.jpg" width="500px">
 </p>

@@ -1,7 +1,7 @@
 ## Linked List (bağlı liste)
 
 <p align="center"> 
-	<img src="https://www.buzzle.com/images/diagrams/linked-list-data-structure.jpg" width="500px">
+	<img src="_img/week_3_0.jpg" width="300px">
 </p>
 
 Ardışık olarak Node içeren veri tipidir. Bir başlangıç (head) Node'u vardır.
@@ -30,7 +30,7 @@ gibi method'ları vardır.
 ## Doubly Linked List (çift bağlı liste)
 
 <p align="center"> 
-	<img src="https://www.cs.usfca.edu/~srollins/courses/cs112-f08/web/notes/linkedlists/ll2.gif" width="500px">
+	<img src="_img/week_3_1.jpg" width="500px">
 </p>
 
 İleri ve geri yönde gezilebilir. Node'un öncesi ve sonrası bilinir. Head, tail, size verileri bulunur.

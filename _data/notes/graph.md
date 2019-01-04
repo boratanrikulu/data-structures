@@ -1,7 +1,7 @@
 ## Graph (çizge)
 
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Directed.svg/1200px-Directed.svg.png" width="300px">
+	<img src="_img/week_9_0.jpg" width="300px">
 </p>
 
 **`VERTEX`** : node  
@@ -42,7 +42,7 @@ public class Edge<T> {
 ```
 
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Directed_graph%2C_cyclic.svg/220px-Directed_graph%2C_cyclic.svg.png" width="300px">
+	<img src="_img/week_9_1.jpg" width="300px">
 </p>
 
 Graph'lar directed ya da undirected olabilir. Undirected olan graph'larda **`indegree`** ve **`outdegree`** kavramları vardır.
@@ -93,7 +93,7 @@ Derine gidilir. Dolaşma işlemi bir düğümden başlar. Gidilebilecek mümkün
 Dolaşma aşağıdaki gibi olur.
 
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/1200px-Depth-first-tree.svg.png" width="600px">
+	<img src="_img/week_9_2.jpg" width="600px">
 </p>
 
 ```java
@@ -126,7 +126,7 @@ Enine gidilir. Dolaşma işlemi bir düğümden başlar. Gidilebilecek mümkün 
 Dolaşma aşağıdaki gibi olur.
 
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Breadth-first-tree.svg/1200px-Breadth-first-tree.svg.png" width="600px">
+	<img src="_img/week_9_3.jpg" width="600px">
 </p>
 
 ```java

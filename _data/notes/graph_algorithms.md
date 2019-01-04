@@ -5,7 +5,7 @@ Kapsayan ağaçlar bağlı ve yönsüz bir çizgede bütün düğümleri birbiri
 Minimum kapsayan ağaç V − 1 tane kenar içerir.
 
 <p align="center"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Minimum_spanning_tree.svg/1200px-Minimum_spanning_tree.svg.png" width="400px">
+	<img src="_img/week_10_0.jpg" width="400px">
 </p>
 
 #### Kurskal's MST algorithm
@@ -15,11 +15,11 @@ Minimum kapsayan ağaç V − 1 tane kenar içerir.
 - V-1 tane olasaya kadar adım 2'yi tekrarla
 
 <p align="center"> 
-	<img src="https://i.hizliresim.com/4jrgBA.png" width="700px">
+	<img src="_img/week_10_1.jpg" width="700px">
 </p>
 
 <p align="center"> 
-	<img src="https://i.hizliresim.com/JZAYoJ.png" width="700px">
+	<img src="_img/week_10_2.jpg" width="700px">
 </p>
 
 #### Prim's MST algorithm
@@ -35,7 +35,3 @@ Anlatması zor, aşağıdaki videoda güzel açıklanmış:
 <p align="center"><a href="https://www.youtube.com/watch?v=jT3c45XkPTg">https://www.youtube.com/watch?v=jT3c45XkPTg</a></p>
 
 <p align="center"><a href="https://www.youtube.com/watch?v=eVV6p0axFYc">https://www.youtube.com/watch?v=eVV6p0axFYc</a></p>
-
-
-
-

@@ -5,7 +5,7 @@ En fazla iki çocuk içeren Node'ların oluşturduğu kümeye, binary search tre
 **`leftChild < parent < rightChiled`** şeklindedir. 
 
 <p align="center"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/1200px-Binary_search_tree.svg.png" width="500px">
+	<img src="_img/week_4_0.jpg" width="400px">
 </p>
 
 **`Inorder dolaşma`** : 1 3 4 6 7 8 10 13 14  
@@ -116,7 +116,7 @@ public <T> Node<T> findParent(Node<T> node) {
 Örneğin **`( a + b ) * c + 7`** ifadesi şu şekilde bir ağaç ile gösterilir :
 
 <p align="center"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Exp-tree-ex-11.svg/1200px-Exp-tree-ex-11.svg.png" width="500px">
+	<img src="_img/week_4_1.jpg" width="400px">
 </p>
 
 ```java
